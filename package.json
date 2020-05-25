@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "6.0.177",
+	"version": "6.0.178",
 	"description": "ctx-core ribbon",
 	"type": "module",
 	"scripts": {
@@ -24,7 +24,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^6.4.29",
+		"@ctx-core/sass": "^6.4.30",
 		"svelte": "^3.22.3"
 	},
 	"gitHead": "ecded533c5d9946e2d9dafa39dbc95ce3e38ad93"
