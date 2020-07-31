@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "6.0.203",
+	"version": "6.0.204",
 	"description": "ctx-core ribbon",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -23,7 +23,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^6.4.51",
+		"@ctx-core/sass": "^6.4.52",
 		"svelte": "^3.24.0"
 	},
 	"gitHead": "4b2a8bef68cd5424312dc8002b2f1f1470aa8af7"
