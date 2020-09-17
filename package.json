@@ -1,30 +1,30 @@
 {
-	"name": "@ctx-core/ribbon",
-	"version": "6.0.226",
-	"description": "ctx-core ribbon",
-	"keywords": [
-		"ctx-core",
-		"ribbon"
-	],
-	"homepage": "https://github.com/ctx-core/ribbon#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/ribbon/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/ribbon/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"scripts": {
-		"exec": "$@"
-	},
-	"devDependencies": {
-		"@ctx-core/sass": "workspace:*",
-		"svelte": "^3.25.0"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "183e54e4ce90320df203609a939067c97c9e6d30"
+  "name": "@ctx-core/ribbon",
+  "version": "6.0.227",
+  "description": "ctx-core ribbon",
+  "keywords": [
+    "ctx-core",
+    "ribbon"
+  ],
+  "homepage": "https://github.com/ctx-core/ribbon#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/ribbon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/ribbon/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "scripts": {
+    "exec": "$@"
+  },
+  "devDependencies": {
+    "@ctx-core/sass": "workspace:*",
+    "svelte": "~3.25.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "183e54e4ce90320df203609a939067c97c9e6d30"
 }
