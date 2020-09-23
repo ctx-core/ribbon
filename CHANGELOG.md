@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 6.0.232
+
+### Patch Changes
+
+- â†‘ dependencies
+
 ## 6.0.231
 
 ### Patch Changes
