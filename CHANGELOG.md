@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 6.0.230
+
+### Patch Changes
+
+- version bump
+
 ## 6.0.229
 
 ### Patch Changes
