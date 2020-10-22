@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "6.0.236",
+	"version": "6.0.237",
 	"description": "ctx-core ribbon",
 	"keywords": [
 		"ctx-core",
@@ -22,7 +22,7 @@
 	},
 	"devDependencies": {
 		"@ctx-core/sass": "workspace:^8.0.30",
-		"svelte": "3.29.0",
+		"svelte": "3.29.3",
 		"typescript": "^4.0.3"
 	},
 	"publishConfig": {
