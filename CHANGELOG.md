@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 6.0.246
+
+### Patch Changes
+
+- typescript: ^4.1.2 -> ^4.1.3
+
 ## 6.0.245
 
 ### Patch Changes
