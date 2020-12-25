@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 6.0.247
+
+### Patch Changes
+
+- - .rush
+
 ## 6.0.246
 
 ### Patch Changes
