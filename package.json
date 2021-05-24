@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "7.0.26",
+	"version": "7.1.0",
 	"description": "ctx-core ribbon",
 	"keywords": [
 		"ctx-core",
@@ -20,11 +20,11 @@
 		"build": "npm run compile",
 		"exec": "$@"
 	},
-	"main": "./src/index.js",
-	"module": "./src/index.js",
-	"types": "./src/index.d.ts",
+	"main": "./dist/index.js",
+	"module": "./dist/index.js",
+	"types": "./types/index.d.ts",
 	"devDependencies": {
-		"@ctx-core/sass": "workspace:^9.3.8",
+		"@ctx-core/sass": "workspace:^9.4.0",
 		"svelte": "3.38.2",
 		"typescript": "^4.2.4"
 	},
