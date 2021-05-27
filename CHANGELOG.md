@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 7.2.2
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.2.1
 
 ### Patch Changes
