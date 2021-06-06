@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 8.0.2
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 8.0.1
 
 ### Patch Changes
