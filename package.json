@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "9.0.2",
+	"version": "9.0.3",
 	"description": "ctx-core ribbon",
 	"keywords": [
 		"ctx-core",
@@ -26,7 +26,7 @@
 	"module": "./src/index.js",
 	"types": "./src/index.d.ts",
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.1",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.2",
 		"@ctx-core/sass": "workspace:^11.0.4",
 		"svelte": "3.38.2",
 		"typescript": "^4.3.2"
