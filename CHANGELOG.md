@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 9.0.9
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+
 ## 9.0.8
 
 ### Patch Changes
