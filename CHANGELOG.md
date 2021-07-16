@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.9
+
+### Patch Changes
+
+- - tsconfig.tsbuildinfo
+
 ## 10.0.8
 
 ### Patch Changes
