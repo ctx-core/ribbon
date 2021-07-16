@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 10.0.6
 
 ### Patch Changes
