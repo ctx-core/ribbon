@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.72
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.0.71
 
 ### Patch Changes
