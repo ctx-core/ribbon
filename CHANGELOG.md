@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.77
+
+### Patch Changes
+
+- Ribbon: lang=ts
+
 ## 10.0.76
 
 ### Patch Changes

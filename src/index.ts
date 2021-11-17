@@ -1,5 +1,2 @@
 import 'svelte'
-import Ribbon from './Ribbon.svelte'
-export {
-	Ribbon
-}
+export * as Ribbon from './Ribbon.svelte'
