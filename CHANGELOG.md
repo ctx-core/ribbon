@@ -1,5 +1,12 @@
 # @ctx-core/ribbon
 
+## 10.0.78
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+
 ## 10.0.77
 
 ### Patch Changes
