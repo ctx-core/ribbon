@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.82
+
+### Patch Changes
+
+- @swc/core: ^1.2.116 -> ^1.2.117
+
 ## 10.0.81
 
 ### Patch Changes
