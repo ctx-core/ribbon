@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.85
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 10.0.84
 
 ### Patch Changes
