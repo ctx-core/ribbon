@@ -6,7 +6,7 @@ export let corner = false
 	<slot></slot>
 </div>
 
-<style type="text/scss">
+<style lang="scss">
 .Ribbon {
 	width: 100%;
 	height: 3.54em;
