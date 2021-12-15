@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.92
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 10.0.91
 
 ### Patch Changes
