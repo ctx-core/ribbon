@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.89
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 10.0.88
 
 ### Patch Changes
