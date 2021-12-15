@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.91
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 10.0.90
 
 ### Patch Changes
