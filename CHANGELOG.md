@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.94
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 10.0.93
 
 ### Patch Changes
