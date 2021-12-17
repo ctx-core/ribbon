@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.96
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 10.0.95
 
 ### Patch Changes
