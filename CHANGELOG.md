@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.95
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 10.0.94
 
 ### Patch Changes
