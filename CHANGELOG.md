@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.98
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 10.0.97
 
 ### Patch Changes
