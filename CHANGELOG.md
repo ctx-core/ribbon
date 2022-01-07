@@ -1,5 +1,12 @@
 # @ctx-core/ribbon
 
+## 10.0.100
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- svelte: ^3.44.3 -> ^3.45.0
+
 ## 10.0.99
 
 ### Patch Changes
