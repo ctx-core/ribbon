@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.101
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 10.0.100
 
 ### Patch Changes
