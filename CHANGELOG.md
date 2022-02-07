@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.104
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.0.103
 
 ### Patch Changes
