@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "10.0.106",
+	"version": "10.0.107",
 	"description": "ctx-core ribbon",
 	"keywords": [
 		"ctx-core",
@@ -35,15 +35,15 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^12.1.30",
+		"@ctx-core/sass": "^12.1.31",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.163",
+		"@swc/core": "^1.2.164",
 		"rimraf": "^3.0.2",
-		"svelte": "^3.46.6",
+		"svelte": "^3.47.0",
 		"svelte-preprocess": "^4.10.5",
-		"svelte2tsx": "^0.5.6",
+		"svelte2tsx": "^0.5.7",
 		"tslib": "^2.3.1",
 		"typescript": "next"
 	},
