@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.108
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 10.0.107
 
 ### Patch Changes
