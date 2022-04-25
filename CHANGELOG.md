@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.110
+
+### Patch Changes
+
+- tslib: ^2.3.1 -> ^2.4.0
+
 ## 10.0.109
 
 ### Patch Changes
