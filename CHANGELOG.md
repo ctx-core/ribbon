@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.112
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+
 ## 10.0.111
 
 ### Patch Changes
