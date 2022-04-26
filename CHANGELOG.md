@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.111
+
+### Patch Changes
+
+- @ctx-core/array: 26.2.0
+
 ## 10.0.110
 
 ### Patch Changes
