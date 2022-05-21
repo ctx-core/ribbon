@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.118
+
+### Patch Changes
+
+- @ctx-core/sass: ^12.1.44 -> ^12.1.45
+
 ## 10.0.117
 
 ### Patch Changes
