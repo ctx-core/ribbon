@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.124
+
+### Patch Changes
+
+- svelte: ^3.50.0 -> ^3.50.1
+
 ## 10.0.123
 
 ### Patch Changes
