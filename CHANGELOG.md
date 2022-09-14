@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.125
+
+### Patch Changes
+
+- svelte2tsx: ^0.5.16 -> ^0.5.17
+
 ## 10.0.124
 
 ### Patch Changes
