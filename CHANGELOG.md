@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.136
+
+### Patch Changes
+
+- svelte-preprocess: ^4.10.7 -> ^5.0.0
+
 ## 10.0.135
 
 ### Patch Changes
