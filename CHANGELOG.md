@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.154
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 10.0.153
 
 ### Patch Changes
