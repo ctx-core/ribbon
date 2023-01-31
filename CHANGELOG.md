@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.0.161
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 10.0.160
 
 ### Patch Changes
