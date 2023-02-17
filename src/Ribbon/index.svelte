@@ -1,12 +1,12 @@
-<script lang="ts">
+<script>
 export let corner = false
 </script>
 
-<div class="Ribbon" class:corner="{corner}">
+<div class="Ribbon" class:corner={corner}>
 	<slot></slot>
 </div>
 
-<style lang="scss">
+<style>
 .Ribbon {
 	width: 100%;
 	height: 3.54em;
@@ -19,7 +19,8 @@ export let corner = false
 	font-size: 1rem;
 	text-decoration: none;
 	text-indent: -999999px;
-	&:before, &:after {
+}
+	.Ribbon:before, .Ribbon:after {
 		position: absolute;
 		display: block;
 		width: 100%;
@@ -30,7 +31,7 @@ export let corner = false
 		-moz-box-sizing: content-box;
 		box-sizing: content-box;
 	}
-	&:before {
+	.Ribbon:before {
 		content: "";
 		padding: .38em 0;
 		background-color: #33D18D;
@@ -45,10 +46,10 @@ export let corner = false
 		box-shadow: 0 .15em .23em 0 rgba(0, 0, 0, 0.5);
 		pointer-events: auto;
 	}
-	&:hover:before {
+	.Ribbon:hover:before {
 		background-color: #3BEFA2;
 	}
-	&:after {
+	.Ribbon:after {
 		content: attr(title);
 		color: #fff;
 		font-family: "NeuzeitGro-Bla", Helvetica, Arial, sans-serif;
@@ -60,14 +61,15 @@ export let corner = false
 		text-indent: 0;
 		margin: -1em 0;
 	}
-	&.corner {
+	.Ribbon.corner {
 		width: 16.1em;
 		height: 16.1em;
 		bottom: auto;
 		top: 0;
 		left: auto;
 		right: 0;
-		&:before, &:after {
+	}
+		.Ribbon.corner:before, .Ribbon.corner:after {
 			width: 30.38em;
 			height: 2.54em;
 			top: 4.23em;
@@ -80,9 +82,7 @@ export let corner = false
 			transform: rotate(45deg);
 			line-height: 1.6em;
 		}
-		&:after {
+		.Ribbon.corner:after {
 			margin: 1.1em 0;
 		}
-	}
-}
 </style>

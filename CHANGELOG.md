@@ -1,5 +1,12 @@
 # @ctx-core/ribbon
 
+## 10.1.0
+
+### Minor Changes
+
+- Ribbon: + type: Ribbon extends SvelteComponentTyped
+- extract _.js & _.d.ts into directories
+
 ## 10.0.172
 
 ### Patch Changes
