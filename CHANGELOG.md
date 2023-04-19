@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.1.22
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 10.1.21
 
 ### Patch Changes
