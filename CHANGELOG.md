@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.1.33
+
+### Patch Changes
+
+- version bump
+
 ## 10.1.32
 
 ### Patch Changes
