@@ -1,5 +1,5 @@
 <script>
-export let corner = false
+	export let corner = false
 </script>
 
 <div class="Ribbon" class:corner={corner}>
@@ -7,19 +7,19 @@ export let corner = false
 </div>
 
 <style>
-.Ribbon {
-	width: 100%;
-	height: 3.54em;
-	position: fixed;
-	overflow: hidden;
-	bottom: 0;
-	left: 0;
-	z-index: 9999;
-	pointer-events: none;
-	font-size: 1rem;
-	text-decoration: none;
-	text-indent: -999999px;
-}
+	.Ribbon {
+		width: 100%;
+		height: 3.54em;
+		position: fixed;
+		overflow: hidden;
+		bottom: 0;
+		left: 0;
+		z-index: 9999;
+		pointer-events: none;
+		font-size: 1rem;
+		text-decoration: none;
+		text-indent: -999999px;
+	}
 	.Ribbon:before, .Ribbon:after {
 		position: absolute;
 		display: block;
@@ -69,20 +69,20 @@ export let corner = false
 		left: auto;
 		right: 0;
 	}
-		.Ribbon.corner:before, .Ribbon.corner:after {
-			width: 30.38em;
-			height: 2.54em;
-			top: 4.23em;
-			left: auto;
-			right: -8.23em;
-			-webkit-transform: rotate(45deg);
-			-moz-transform: rotate(45deg);
-			-ms-transform: rotate(45deg);
-			-o-transform: rotate(45deg);
-			transform: rotate(45deg);
-			line-height: 1.6em;
-		}
-		.Ribbon.corner:after {
-			margin: 1.1em 0;
-		}
+	.Ribbon.corner:before, .Ribbon.corner:after {
+		width: 30.38em;
+		height: 2.54em;
+		top: 4.23em;
+		left: auto;
+		right: -8.23em;
+		-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+		-o-transform: rotate(45deg);
+		transform: rotate(45deg);
+		line-height: 1.6em;
+	}
+	.Ribbon.corner:after {
+		margin: 1.1em 0;
+	}
 </style>
