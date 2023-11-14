@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "10.2.1",
+	"version": "10.2.2",
 	"description": "ctx-core ribbon",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./Ribbon"
 	],
 	"types": "./index.d.ts",
