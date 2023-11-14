@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 10.2.2
 
 ### Patch Changes
