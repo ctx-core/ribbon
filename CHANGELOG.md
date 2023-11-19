@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.2.6
+
+### Patch Changes
+
+- tsx: ^4.1.3 -> ^4.1.4
+
 ## 10.2.5
 
 ### Patch Changes
