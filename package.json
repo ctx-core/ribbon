@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ribbon",
-	"version": "10.2.17",
+	"version": "10.2.18",
 	"description": "ctx-core ribbon",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"svelte": "^4.2.11"
+		"svelte": "^4.2.12"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
