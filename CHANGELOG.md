@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.2.19
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 10.2.18
 
 ### Patch Changes
