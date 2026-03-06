@@ -1,5 +1,11 @@
 # @ctx-core/ribbon
 
+## 10.2.28
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 10.2.27
 
 ### Patch Changes
